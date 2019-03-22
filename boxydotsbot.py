@@ -72,7 +72,7 @@ class Box():
             return returningLines
 
         else:
-            return []
+            return None
 
 
     def isBoxFilledByThree(self):
